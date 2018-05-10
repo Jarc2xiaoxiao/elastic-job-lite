@@ -22,5 +22,5 @@ package io.elasticjob.lite.api;
  * 
  * @author zhangliang
  */
-public interface ElasticJob {
+public interface ElasticJob     {
 }
